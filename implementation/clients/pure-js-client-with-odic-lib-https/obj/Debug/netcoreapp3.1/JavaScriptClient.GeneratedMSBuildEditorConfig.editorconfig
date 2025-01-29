@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = JavaScriptClient
+build_property.ProjectDir = D:\repos\Dev\ids\clients\pure-js-client-with-odic-lib-https\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

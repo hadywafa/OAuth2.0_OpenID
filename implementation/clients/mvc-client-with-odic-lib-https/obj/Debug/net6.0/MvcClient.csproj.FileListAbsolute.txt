@@ -1,0 +1,8 @@
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.csproj.AssemblyReference.cache
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.AssemblyInfoInputs.cache
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.AssemblyInfo.cs
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.csproj.CoreCompileInputs.cache
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.RazorAssemblyInfo.cache
+D:\repos\Dev\ids\clients\mvc-client-with-odic-lib-https\obj\Debug\net6.0\MvcClient.RazorAssemblyInfo.cs
