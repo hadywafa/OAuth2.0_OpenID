@@ -8,6 +8,8 @@
     "**/Thumbs.db": true,
     "**/node_modules": true,
     "**/obj": true,
+    "**/*.csproj": true,
+    "**/*.sln": true,
     "**/bin": true,
     "**/.vs": true
   },
