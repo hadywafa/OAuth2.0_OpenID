@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNetCore.Authentication
+
+@{
+    ViewData["Title"] = "Call API";
+}
+
+<h2>API Call Result</h2>
+
+@if (ViewBag.Json != null)
+{
+    <pre>@Html.Raw(ViewBag.Json)</pre>
+}
+else
+{
+    <p>No data available.</p>
+}
