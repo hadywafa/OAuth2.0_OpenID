@@ -11,7 +11,8 @@
     "**/*.csproj": true,
     "**/*.sln": true,
     "**/bin": true,
-    "**/.vs": false
+    "**/.vs": false,
+    ".markdownlint.json": true
   },
   "explorerExclude.backup": {}
 }
