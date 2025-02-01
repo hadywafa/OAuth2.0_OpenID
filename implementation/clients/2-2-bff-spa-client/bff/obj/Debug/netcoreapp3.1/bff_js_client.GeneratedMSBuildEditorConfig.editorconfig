@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = bff_js_client
+build_property.ProjectDir = D:\repos\Dev\OAuth2.0_OpenID\implementation\clients\3-bff-js-client-https\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
